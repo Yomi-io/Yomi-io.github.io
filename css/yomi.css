@@ -560,7 +560,7 @@ img.tl_main_logo {
 .tl_main_logo_title_image {
   width: 144px;
   height: 36px;
-  background: url(../img/papercraft_1x.png) 0 0 no-repeat;
+  background: url(../img/yomi_1x.png) 0 0 no-repeat;
   margin: 18px auto 6px;
 }
 .tl_main_logo_lead {
@@ -992,7 +992,7 @@ h3.tl_main_card_header {
   float: left;
   padding-right: 78px;
 }
-.footer_column_papercraft {
+.footer_column_yomi {
   width: 290px;
   padding-right: 50px;
 }
@@ -1028,7 +1028,7 @@ h3.tl_main_card_header {
 .footer_privacy_description p {
   margin-bottom: 6px;
 }
-.footer_papercraft_description {
+.footer_yomi_description {
   font-size: 13px;
 }
 
@@ -1629,29 +1629,29 @@ h3.tl_main_card_header {
   background: #d50000;
 }
 .control-label-item,
-.form-papercraft .control-label {
+.form-yomi .control-label {
   text-align: right;
   margin-bottom: 0;
   line-height: 20px;
   padding-top: 11px;
 }
-.form-papercraft .help-block {
+.form-yomi .help-block {
   font-size: 13px;
   color: #808080;
   margin-top: 10px;
   margin-bottom: 5px;
 }
-.form-papercraft .form-group {
+.form-yomi .form-group {
   margin-bottom: 20px;
 }
-.form-papercraft textarea.form-control {
+.form-yomi textarea.form-control {
   margin-top: 7px;
 }
-.form-papercraft.form-control[readonly] {
+.form-yomi.form-control[readonly] {
   cursor: text;
   background: #fff;
 }
-.form-papercraft .form-control[readonly]:focus {
+.form-yomi .form-control[readonly]:focus {
   border: 1px solid #ccc;
   box-shadow: none;
 }
@@ -2586,7 +2586,7 @@ video.smartphone_video_player {
   margin: 0 auto;
 }
 
-/* Papercraft Im */
+/* Yomi Im */
 .tgme_page_wrap {
   font-family: "Roboto", sans-serif;
   color: #2b2d2e;
@@ -3251,7 +3251,7 @@ a.tlb_blog_head_more_link .tlb_head_more_active,
   color: #c2eaff;
 }
 
-.tl_papercraft_share_btn {
+.tl_yomi_share_btn {
   display: inline-block;
   border-radius: 15px;
   background-color: #54a9eb;
@@ -3262,14 +3262,14 @@ a.tlb_blog_head_more_link .tlb_head_more_active,
   color: #fff;
   font-weight: bold;
 }
-.tl_papercraft_share_btn:hover,
-.tl_papercraft_share_btn:active,
-.tl_papercraft_share_btn:focus {
+.tl_yomi_share_btn:hover,
+.tl_yomi_share_btn:active,
+.tl_yomi_share_btn:focus {
   text-decoration: none;
   color: #fff;
   outline: none;
 }
-i.tl_papercraft_share_icon {
+i.tl_yomi_share_icon {
   display: inline-block;
   width: 22px;
   height: 22px;
@@ -3278,26 +3278,26 @@ i.tl_papercraft_share_icon {
   margin-right: 7px;
   vertical-align: top;
 }
-.tl_papercraft_share_label {
+.tl_yomi_share_label {
   line-height: 21px;
   vertical-align: top;
   display: inline-block;
   /*margin-top: 1px;*/
 }
 
-.tlb_page_wrap a.tl_papercraft_share_btn {
+.tlb_page_wrap a.tl_yomi_share_btn {
   background: #3faee8;
   color: #fff;
   font-size: 14px;
   border-radius: 17px;
   padding: 6px 12px 5px 6px;
 }
-.tlb_page_wrap a.tl_papercraft_share_btn:hover,
-.tlb_page_wrap a.tl_papercraft_share_btn:active {
+.tlb_page_wrap a.tl_yomi_share_btn:hover,
+.tlb_page_wrap a.tl_yomi_share_btn:active {
   color: #c2eaff;
 }
 
-/* Papercraft Desktop */
+/* Yomi Desktop */
 .td_btn_hidden,
 .td_all_shown .td_show_all_platforms {
   display: none;
@@ -3513,7 +3513,7 @@ i.tl_papercraft_share_icon {
   only screen and (min--moz-device-pixel-ratio: 1.5),
   only screen and (min-device-pixel-ratio: 1.5) {
   .tl_main_logo_title_image {
-    background-image: url(../img/papercraft_2x.png);
+    background-image: url(../img/yomi_2x.png);
     background-size: 144px 36px;
   }
   .caret {
@@ -3573,7 +3573,7 @@ i.tl_papercraft_share_icon {
     background-size: 7px 7px;
   }
 
-  i.tl_papercraft_share_icon {
+  i.tl_yomi_share_icon {
     background: url(../img/share_logo_2x.png) 0 0 no-repeat;
     background-size: 22px 22px;
   }
